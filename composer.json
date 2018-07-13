@@ -1,16 +1,17 @@
 {
     "name": "gulaandrij/coding-standard",
     "description": "Coding standard",
+    "license": "MIT",
     "keywords": [
         "phpcs",
         "standards"
     ],
+    "type" : "phpcodesniffer-standard",
     "require": {
         "squizlabs/php_codesniffer": "^3.3.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
         "slevomat/coding-standard": "^4.6.3"
     },
-    "license": "MIT",
     "authors": [
         {
             "name": "gylaandrij",
